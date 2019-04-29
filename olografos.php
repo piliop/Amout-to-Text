@@ -75,5 +75,3 @@ echo '<br />';
 
 // Input the amount
 $n2s = new numberToString($price);
-
-echo 'piliop';
